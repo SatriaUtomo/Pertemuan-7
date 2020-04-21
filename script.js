@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
     ctx.save();
     ctx.beginPath();
     ctx.translate(150, 200);
-    ctx.rotate(Math.PI*-11/8);        //3.14 radians 180 deg
+    ctx.rotate(Math.PI*-11/8);        
     ctx.rect(0,0,150,25)
     ctx.fillStyle = 'blue';
     ctx.fill();
@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
     ctx.save();
     ctx.beginPath();
     ctx.translate(500, 200);
-    ctx.rotate(Math.PI*-9/8);        //3.14 radians 180 deg
+    ctx.rotate(Math.PI*-9/8);        
     ctx.rect(0,0,150,25)
     ctx.fillStyle = 'blue';
     ctx.fill();
@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
     ctx.save();
     ctx.beginPath();
     ctx.translate(150, 560);
-    ctx.rotate(Math.PI*-7/8);        //3.14 radians 180 deg
+    ctx.rotate(Math.PI*-7/8);        
     ctx.rect(0,0,150,25)
     ctx.fillStyle = 'blue';
     ctx.fill();
@@ -142,7 +142,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
     ctx.save();
     ctx.beginPath();
     ctx.translate(540, 540);
-    ctx.rotate(Math.PI*16/8);        //3.14 radians 180 deg
+    ctx.rotate(Math.PI*16/8);       
     ctx.rect(0,0,150,25)
     ctx.fillStyle = 'blue';
     ctx.fill();
