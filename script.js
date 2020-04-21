@@ -9,10 +9,6 @@
     let x = 100;
     let y = 100;
 
-
-//Aksi1
-    //Badan
-    //Kotak
     ctx.save();
     ctx.beginPath();
     ctx.translate(150, 200);
@@ -22,8 +18,6 @@
     ctx.closePath();
     ctx.restore();
 
-    //Tangan
-    //Kiri 
     ctx.save();
     ctx.beginPath();
     ctx.translate(150, 200);
@@ -34,9 +28,6 @@
     ctx.closePath();
     ctx.restore();
 
-
-    //Muka
-    //Mata Kiri
     ctx.save();
     ctx.beginPath();
     ctx.translate(225, 250)
@@ -47,10 +38,6 @@
     ctx.closePath();
     ctx.restore();
 
-//Aksi2
-    //Badan
-    //Kotak
-
     ctx.save();
     ctx.beginPath();
     ctx.translate(500, 200);
@@ -60,8 +47,6 @@
     ctx.closePath();
     ctx.restore();
 
-    //Tangan
-    //Kiri 
     ctx.save();
     ctx.beginPath();
     ctx.translate(500, 200);
@@ -72,9 +57,6 @@
     ctx.closePath();
     ctx.restore();
 
-
-    //Muka
-    //Mata Kiri
     ctx.save();
     ctx.beginPath();
     ctx.translate(575, 250)
@@ -85,11 +67,6 @@
     ctx.closePath();
     ctx.restore();
 
-    
-//Aksi3
-    //Badan
-    //Kotak
-
     ctx.save();
     ctx.beginPath();
     ctx.translate(150, 560);
@@ -99,8 +76,6 @@
     ctx.closePath();
     ctx.restore();
 
-    //Tangan
-    //Kiri 
     ctx.save();
     ctx.beginPath();
     ctx.translate(150, 560);
@@ -111,8 +86,6 @@
     ctx.closePath();
     ctx.restore();
 
-    //Muka
-    //Mata Kiri
     ctx.save();
     ctx.beginPath();
     ctx.translate(225, 610)
@@ -122,10 +95,6 @@
     ctx.fill();
     ctx.closePath();
     ctx.restore(); 
-    
-//Aksi4
-    //Badan
-    //Kotak
 
     ctx.save();
     ctx.beginPath();
@@ -136,20 +105,16 @@
     ctx.closePath();
     ctx.restore();
 
-    //Tangan
-    //Kiri 
     ctx.save();
     ctx.beginPath();
     ctx.translate(540, 540);
-    ctx.rotate(Math.PI*16/8);       
+    ctx.rotate(Math.PI*16/8);        
     ctx.rect(0,0,150,25)
     ctx.fillStyle = 'blue';
     ctx.fill();
     ctx.closePath();
     ctx.restore();
 
-    //Muka
-    //Mata Kiri
     ctx.save();
     ctx.beginPath();
     ctx.translate(615, 610)
