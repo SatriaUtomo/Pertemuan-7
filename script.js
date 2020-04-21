@@ -1,5 +1,4 @@
- 
-document.addEventListener('DOMContentLoaded', ()=>{
+ document.addEventListener('DOMContentLoaded', ()=>{
     canvas = document.getElementById('canvas');
     ctx = canvas.getContext('2d');
     canvas.width = 800;
