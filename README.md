@@ -2,5 +2,5 @@ Untuk memenuhi tugas matkul Grafika Komputer yang diampu oleh bapak Lutfi Hakim.
 
 Anggota Kelompok:
 
-    1. Satria Utomo 361855401090
-    2. 
+    1. Satria Utomo 361855401080
+    2. Abdul Dava Rizaldi 361855401090
